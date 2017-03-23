@@ -1,0 +1,29 @@
+typography_spectrum: 0.5846006431457319
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.05348659174166399
+  lightness: 0.134575102613077
+  saturation: 0.3748204438604119
+  rhythmicContrast: 0.2202161830428545
+layout_spectrum: 0.17750731618263493
+name: ghost
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: materials
+    id: 1c347a74-8062-4276-ad0e-22419b4bd90b
+    type: content
+title: Ghost
+content: []
+description: figment of your imagination
+github: true
