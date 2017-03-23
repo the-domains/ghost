@@ -11,7 +11,7 @@ color:
   saturation: 0.3748204438604119
   rhythmicContrast: 0.2202161830428545
 layout_spectrum: 0.17750731618263493
-name: ghost grid
+name: ghost
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
